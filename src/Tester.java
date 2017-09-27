@@ -5,6 +5,8 @@ public class Tester {
 
         System.out.println("Hello Matt!");
 
+        System.out.println("Are you going to add this to the staging area?");
+
     }
 
 }
